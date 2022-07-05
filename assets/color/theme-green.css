@@ -1,0 +1,156 @@
+/*!
+Author       : Bestwebcreator.
+Template Name: Cryptocash - ICO & Cryptocurrency Landing Page HTML + Admin Dashboard Template
+Version      : 1.7
+*/
+a:hover,
+header a:hover, 
+.navbar-nav li a.active, 
+.navbar-expand-lg .navbar-nav .dropdown-menu li a.active,
+.navbar-expand-lg .navbar-nav .dropdown-item:hover,
+.navbar-expand-lg .navbar-nav .dropdown-item.active, 
+.navbar-expand-lg .navbar-nav .dropdown.show > a,
+.social_icon li a:hover,
+.social_single_team li a:hover,
+.social_team a:hover,
+.blog_text a:hover,
+.blog_meta a:hover,
+.blog_meta a:hover i,
+.footer_menu li a:hover, 
+.footer_link a:hover,
+.footer_social li a:hover,
+.blog_title a:hover,
+.blog_content_detail .blog_meta a:hover,
+.blog_content_detail .blog_meta li a:hover i,
+.blog_content_detail .blog_meta a:hover span,
+.v_blue .social_icon li a:hover,
+.v_blue_pro .blog_text a:hover, 
+.v_blue_pro .blog_meta a:hover, 
+.v_blue_pro .blog_meta a:hover i, 
+.v_dark .blog_text a:hover, 
+.v_dark .blog_meta a:hover, 
+.v_dark .blog_meta a:hover i,
+.v_dark .social_icon li a:hover,
+.v_dark .social_single_team li a:hover,
+.breadcrumb li a:hover,
+.widget_category li a:hover, 
+.widget_archive li a:hover,
+.tags li a:hover,
+.widget-post-content h6 a:hover,
+.comment-reply:hover,
+.v_blue_light .social_icon li a:hover,
+.v_light_dark .social_single_team li a:hover,
+.v_blue .social_single_team li a:hover,
+.v_royal_blue .social_icon li a:hover,
+.doc_list li a:hover,
+.v_navy_blue .nav-item a:hover, 
+.v_navy_blue .nav-item a.active,
+.footer_link_s2 li a:hover,
+.roadmap_wrap .owl-nav i:hover,
+.doc_dropdown .dropdown-menu li a:hover,
+.vertical_social li a:hover,
+.doc_lan li a:hover,
+.doc_lan li a:hover span i,
+.tab_nav_s2 li.nav-item a.active, 
+.tab_nav_s2 li.nav-item a:hover {
+	color: #40f8a6;
+}
+.pr_box h6,
+.chart_list_info li p span,
+.v_dark .blog_text > a,
+.v_dark .blog_meta a i,
+.sale_info h6,
+.token_info_table .table td:first-child,
+.token_info_table_s2 .table td:first-child,
+.token_detail li span,
+.discount_text,
+.rating {
+	color: #43B1FB;
+}
+.navbar-expand-lg .navbar-nav > li > .nav-link.active::before,
+.single_roadmap.roadmap_done .roadmap_icon,
+.rd_complete .roadmap_icon,
+.roadmap_box.current .roadmap_inner,
+.roadmap .owl-nav i:hover,
+.box_roadmap .roadmap_inner::after,
+.tab-link.active, 
+.tab-link.active:hover, 
+.tab-link:hover,
+.v_light_dark .tab-link.active, 
+.v_light_dark .tab-link.active:hover, 
+.v_light_dark .tab-link:hover,
+.v_royal_blue .tab-link.active, 
+.v_royal_blue .tab-link.active:hover, 
+.v_royal_blue .tab-link:hover,
+.tab_nav_s4 li.nav-item a.active,
+.timeline_box.complete .timeline_circle::before,
+.timeline_box.complete::before,
+.timeline_box.current .timeline_inner,
+.timeline .owl-nav i:hover {
+	background-color: #40f8a6;
+}
+.roadmap_box.current .roadmap_inner::before,
+.timeline_box.current .timeline_inner::before {
+	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #40f8a6;
+}
+.btn-default {
+	background-image: -webkit-linear-gradient(left, #40f8a6 0%,#43B1FB 51%,#40f8a6);
+	background-image: linear-gradient(to right, #40f8a6 0%,#43B1FB 51%,#40f8a6);
+}
+.btn-default.active.focus, 
+.btn-default.active:focus, 
+.btn-default.active:hover, 
+.btn-default:active:focus, 
+.btn-default:active:hover,
+.btn-default.active,
+.btn-default:active,
+.btn-default.focus:active, 
+.btn-default:focus,
+.btn.active:not(:disabled):not(.disabled), 
+.btn:active:not(:disabled):not(.disabled) {
+	background-image: -webkit-linear-gradient(left, #40f8a6 0%,#43B1FB 51%,#40f8a6);
+	background-image: linear-gradient(to right, #40f8a6 0%,#43B1FB 51%,#40f8a6);
+}
+.btn-border,
+.btn.btn-border:hover,
+.btn.btn-border.active.focus, 
+.btn.btn-border.active:focus, 
+.btn.btn-border.active:hover, 
+.btn.btn-border:active:focus, 
+.btn.btn-border:active:hover, 
+.btn.btn-border.active, 
+.btn.btn-border:active, 
+.btn.btn-border.focus:active, 
+.btn.btn-border:focus,
+.doc_dropdown > a, .doc_dropdown > a:hover,
+.doc_dropdown .dropdown-menu {
+	background-image: -webkit-linear-gradient(left, #43B1FB 0%,#40f8a6 99%);
+	background-image: linear-gradient(to right, #43B1FB 0%,#40f8a6 99%);
+}
+button,
+.team_img.gradient_box::before,
+.team_pop .progress-bar,
+.tk_counter_inner .progress-bar.gradient,
+.faq_content4 .card-header a::after {
+	background-image: -webkit-linear-gradient(left, #40f8a6 0%,#43B1FB 99%);
+	background-image: linear-gradient(to right, #40f8a6 0%,#43B1FB 99%);
+}
+.gradient_box {
+	background-image: -webkit-linear-gradient(left, #40f8a6 0%,#43B1FB 99%) !important;
+	background-image: linear-gradient(to right, #40f8a6 0%,#43B1FB 99%) !important;
+}
+.team_social_s2 {
+	background-image: -webkit-linear-gradient(top, #40f8a6 0%,#43B1FB 99%);
+	background-image: linear-gradient(to bottom, #40f8a6 0%,#43B1FB 99%);
+}
+.dl_lan li a {
+	border-color: #43B1FB;
+}
+.tags li a:hover,
+.dl_lan li a:hover,
+.doc_list li a,
+.video_wrap::before,
+.tab_nav_s4 li.nav-item a.active,
+.timeline_box.complete .timeline_circle::before {
+	border-color: #40f8a6;
+}
